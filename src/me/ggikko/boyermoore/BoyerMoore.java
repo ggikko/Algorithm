@@ -70,7 +70,7 @@ public class BoyerMoore {
      * @param args
      */
     public static void main(String[] args) {
-        String pat = "ggikko";
+        String pat = "lo, ggikko!";
         String txt = "hello, ggikko! What is ur name?";
 
         char[] pattern = pat.toCharArray();
